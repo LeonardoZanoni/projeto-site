@@ -9,6 +9,12 @@ body {
 
 }
 
+img.lado{
+
+float: right
+
+}
+
 main {
     background-color: rgb(238, 237, 235);
     width: 500px;
